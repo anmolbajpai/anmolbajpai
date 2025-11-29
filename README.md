@@ -1,10 +1,8 @@
 - 👋 Hi, I’m @anmolbajpai
-- 👀 I’m interested in full stack development
-- 🌱 I’m currently learning reactjs and nodejs 
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in AI powered full stack development
+- 🌱 I’m currently learning nexttjs, java, radis and supabase.
 - 📫 How to reach me anmolbajpai164@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- Love to make creative and responsive UI with secure and faster backend.
 
 <!---
 anmolbajpai/anmolbajpai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
